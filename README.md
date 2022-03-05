@@ -6,9 +6,4 @@ The language-specific getting started guides walk you through the process of set
 
 In addition to the language-specific modules, Docker documentation also provides guidelines to build and efficiently manage your development environment. You can find information on the best practices for writing Dockerfiles, building and managing images efficiently, gaining performance improvements by building images using BuildKit, etc. You can also find specific instructions on how to keep your images small, and how to persist application data, how to use multi-stage builds, etc.
 
-For more information, refer to the following topics:
-
-Best practices for writing Dockerfiles
-Docker development best practices
-Build images with BuildKit
-Manage images
+Link: https://docs.docker.com/language/
